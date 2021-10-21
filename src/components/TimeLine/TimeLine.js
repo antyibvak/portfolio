@@ -46,10 +46,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      My name is Antyibvak Ibrahim. I am a Computer Engineering student at the University of Ottawa. I'm a coding enthusiast with a variety of interests. 
-      I've worked previously with web and mobile development and am currently learning about blockchain technologies. I have worked with HTML, CSS,JavaScript and React for front end Web Development. 
-      I have worked with Django for backend development ans Swift for IOS development.
-      I am currently learning about  Blockchains, specifically the Ethereum blockchain and using solidity and ganache to write and deploy smart contracts.
+      My name is Antyibvak Ibrahim. I am a Computer Engineering student at the University of Ottawa. I am a coding enthusiast with a variety of interests. 
+      I have worked previously with web and mobile development and am currently learning about blockchain technologies. I have worked with HTML, CSS, JavaScript and React for front end Web Development. 
+      I have worked with Django for backend development and Swift for IOS development.
+      I am currently learning about Blockchains, specifically the Ethereum blockchain, and using Solidity and Ganache to write and deploy smart contracts.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
