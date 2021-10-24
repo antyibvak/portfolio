@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'BlockChain',
-    description: "In an attempt to understand the backgorund technology of cryptocurrencies, I decided to build one myself. It is a simple blockchain which runs on a proof of work protocol to mine blocks. It was built with pyhton on the backend and includes a front end visualization which was made wiih react.",
+    description: "In an attempt to understand the backgorund technology of cryptocurrencies, I decided to build one myself. It is a simple blockchain which runs on a proof of work protocol to mine blocks. It was built with python on the backend and includes a front end visualization which was made with react.",
     image: '/images/2.jpeg',
     tags: ['Python', 'React.js'],
     source: 'https://github.com/antyibvak/Blockchain',
