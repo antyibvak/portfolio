@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://google.com',
     id: 3,
   },
+  {
+    title: 'NFT Project',
+    description: "This is a collectible Nft project I created and launched on the Ethereum rinkeby testnet which people could purchase with fake ether",
+    image: '/images/4.png',
+    tags: ['Python'],
+    source: 'https://withered-pond-5670.on.fleek.co/',
+    visit: 'https://withered-pond-5670.on.fleek.co/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
