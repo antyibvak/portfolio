@@ -38,8 +38,8 @@ export const projects = [
   {
     title: 'NFT Project',
     description: "This is a collectible Nft project I created and launched on the Ethereum rinkeby testnet which people could purchase with fake ether",
-    image: '/images/4.png',
-    tags: ['Python'],
+    image: '/images/NFT.png',
+    tags: ['Solidity', 'React.js', 'Web3'],
     source: 'https://withered-pond-5670.on.fleek.co/',
     visit: 'https://withered-pond-5670.on.fleek.co/',
     id: 3,
