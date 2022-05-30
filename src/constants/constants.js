@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Smart Contract and dApp',
-    description: "This is a decentralized lottery game which allows players to deposit a certain amount of ether, play a guessing game and win or lose money depending on the validity of their guess. The game runs on a smart contract written in Solidity and executed on the ethereum blockchain.",
+    title: 'NFT Marketplace',
+    description: "Built an NFT Marketplace for buying, selling and storing NFTs",
     image: '/images/1.png',
-    tags: ['Solidity', 'Ganache', 'React.js', 'Web3'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    tags: ['Solidity', 'HardHat', 'React.js', 'Web3', 'IPFS', 'Ethers'],
+    source: 'https://github.com/antyibvak/marketplace',
+    visit: 'https://6293fc05f71d0a1935eb429b--astonishing-lolly-b9fed0.netlify.app/',
     id: 0,
   },
   {
