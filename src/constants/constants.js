@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'NFT Marketplace',
-    description: "Built an NFT Marketplace for buying, selling and storing NFTs",
+    description: "This is an NFT Marketplace for buying, selling and storing NFTs. Smart Contract written in Solidity and Frontend built with React.js, Web3 and Ethers. Web Application launched on Netlify. Decentralized exchange still being built.",
     image: '/images/1.png',
     tags: ['Solidity', 'HardHat', 'React.js', 'Web3', 'IPFS', 'Ethers'],
     source: 'https://github.com/antyibvak/marketplace',
